@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-supplier-bills-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-supplier-bills",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-supplier-bills-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/supplier-bills.md",
+  "presentationPlan": "projects/accounting/nuxt/supplier-bills.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
